@@ -24,7 +24,7 @@ The point is it's tuned / synced on the same topic and is making actions on ever
 2. Activate it (if not done automatically by VSCode) by calling one of the `activate` scripts contained inside the .venv/Scripts folder (which one specifically, depends on your os and/or prompt you're using)
 
 3. Install dependencies:
-```pip instal -r requirements.txt```
+```pip install -r requirements.txt```
 
 4. Run both services:
 
